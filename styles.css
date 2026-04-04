@@ -283,6 +283,7 @@ h1 {
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
   background: linear-gradient(135deg, #e8f0ff, #f5e8ff);
+  min-height: 280px;
 }
 
 .doctor-photo img {
